@@ -1,13 +1,13 @@
 {
   "name": "ex3",
   "version": "1.0.0",
-  "description": "",
+  "description": "HW9a - Ch24",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Le",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.29.4"
